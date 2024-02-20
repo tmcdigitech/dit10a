@@ -26,4 +26,5 @@ This example returns a complete HTML page.
   </body>
 </html>
 ```
+{{< /tab >}}
 {{< /tabs >}}
