@@ -1,5 +1,6 @@
 ---
 title: Task 1 - Python Checkpoints
+draft: true
 ---
 
 {{< hint info >}}

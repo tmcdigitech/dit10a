@@ -9,6 +9,7 @@ pluralizeListTitles = false
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 disablePathToLower = true
+pygmentsOptions = "linenos=table"
 
 publishDir = "docs"
 

@@ -1,3 +1,5 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/hack-font/3.3.0/web/hack.min.css");
+@import url('https://fonts.cdnfonts.com/css/atkinson-hyperlegible');
 @font-face {
     font-family: 'Cascadia Code';
     src: url('fonts/CascadiaCode.woff2') format('woff2');
@@ -10,9 +12,14 @@
     font-style: italic;
 }
 
+body{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-size: 14pt;
+}
+
 code, .asciinema-terminal{
-    font-family: 'Cascadia Code', monospace;
-    font-feature-settings: 'calt', 'ss01';
+    font-family: 'Hack', monospace;
+    /* font-feature-settings: 'calt', 'ss01'; */
 }
 
 
