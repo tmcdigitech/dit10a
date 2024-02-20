@@ -24,4 +24,5 @@ def other_page():
 
 run(reloader=True, debug=True)
 ```
+{{< /tab >}}
 {{< /tabs >}}
