@@ -1,6 +1,12 @@
 ---
 more:
-  - name: Flask Notes
+  - name: Flask notes
     ref: "https://tmccatholiceduau.sharepoint.com/sites/DigitalTechnologies/SitePages/Web-Development.aspx"
     external: true
     icon: "gdoc_star"
+
+  - name: Databases and SQL notes
+    ref: "https://tmccatholiceduau.sharepoint.com/sites/DigitalTechnologies/SitePages/Flask-Databases-%26-SQL.aspx"
+
+    external: true
+    icon: "gdoc_bitbucket"
