@@ -1,5 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Assessment on TMC - 10 Digital Tech Semester 1</title><link>https://tmcdigitech.github.io/dit10a/assessment/</link><description>Recent content in Assessment on TMC - 10 Digital Tech Semester 1</description><generator>Hugo -- gohugo.io</generator><language>en-au</language><atom:link href="https://tmcdigitech.github.io/dit10a/assessment/index.xml" rel="self" type="application/rss+xml"/><item><title>1: HTML/CSS Web Development</title><link>https://tmcdigitech.github.io/dit10a/assessment/01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tmcdigitech.github.io/dit10a/assessment/01/</guid><description>See in SEQTA
-Complete the HTML/CSS Starter and HTML/CSS Beginner 1 courses in Grok Academy to develop your skills and knowledge in readiness for your web development project. The course covers:
-HTML/CSS Starter Intro to HTML and stylesheets Stylish text, colours, images and links HTML/CSS Beginner 1 Intro to colour and vertical layout Document structure and fancy fonts Grouping elements and styling blocks Laying out a page Once you&amp;rsquo;ve completed this course, you&amp;rsquo;ll be ready to move on to HTML/CSS for Beginners 2.</description></item><item><title>2a: Flask site checkpoint</title><link>https://tmcdigitech.github.io/dit10a/assessment/02a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tmcdigitech.github.io/dit10a/assessment/02a/</guid><description>Create a flask web app (or use an existing one) that has the following features:
-when I go to /name/Barry, it will remember my name is Barry. when I go to /age/15, it will remember my age is 15. when I go to /licence, it will either show: Hello Barry. You will be eligible to get your licence in 1 year.
-or, if the age I entered was at least 16, it will instead show:</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Assessment on TMC - 10 Digital Tech Semester 1</title><link>https://tmcdigitech.github.io/dit10a/assessment/</link><description>Recent content in Assessment on TMC - 10 Digital Tech Semester 1</description><generator>Hugo</generator><language>en-au</language><atom:link href="https://tmcdigitech.github.io/dit10a/assessment/index.xml" rel="self" type="application/rss+xml"/><item><title>1: HTML/CSS Web Development</title><link>https://tmcdigitech.github.io/dit10a/assessment/01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tmcdigitech.github.io/dit10a/assessment/01/</guid><description>&lt;p>&lt;a class="gdoc-markdown__link" href="https://learn.tmc.catholic.edu.au/#?page=/assessments/1733:8715&amp;amp;item=14566">See in SEQTA&lt;/a>&lt;/p>
+&lt;p>Complete the &lt;a class="gdoc-markdown__link" href="https://groklearning.com/course/intro-html-css-starter/">HTML/CSS Starter&lt;/a> and &lt;a class="gdoc-markdown__link" href="https://groklearning.com/course/intro-html-css-beginners-1/">HTML/CSS Beginner 1&lt;/a> courses in Grok Academy to develop your skills and knowledge in readiness for your web development project. The course covers:&lt;/p>
+&lt;div class="gdoc-page__anchorwrap">
+ &lt;h3 id="htmlcss-starter">
+ HTML/CSS Starter
+ &lt;a data-clipboard-text="https://tmcdigitech.github.io/dit10a/assessment/01/#htmlcss-starter" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor HTML/CSS Starter" href="#htmlcss-starter">
+ &lt;svg class="icon gdoc_link">&lt;use xlink:href="#gdoc_link">&lt;/use>&lt;/svg>
+ &lt;/a>
+ &lt;/h3>
+&lt;/div>&lt;ol>
+&lt;li>Intro to HTML and stylesheets&lt;/li>
+&lt;li>Stylish text, colours, images and links&lt;/li>
+&lt;/ol>
+&lt;div class="gdoc-page__anchorwrap">
+ &lt;h3 id="htmlcss-beginner-1">
+ HTML/CSS Beginner 1
+ &lt;a data-clipboard-text="https://tmcdigitech.github.io/dit10a/assessment/01/#htmlcss-beginner-1" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor HTML/CSS Beginner 1" href="#htmlcss-beginner-1">
+ &lt;svg class="icon gdoc_link">&lt;use xlink:href="#gdoc_link">&lt;/use>&lt;/svg>
+ &lt;/a>
+ &lt;/h3>
+&lt;/div>&lt;ol>
+&lt;li>Intro to colour and vertical layout&lt;/li>
+&lt;li>Document structure and fancy fonts&lt;/li>
+&lt;li>Grouping elements and styling blocks&lt;/li>
+&lt;li>Laying out a page&lt;/li>
+&lt;/ol>
+&lt;p>Once you&amp;rsquo;ve completed this course, you&amp;rsquo;ll be ready to move on to &lt;a class="gdoc-markdown__link" href="https://groklearning.com/course/intro-html-css-beginners-2/">HTML/CSS for Beginners 2&lt;/a>.&lt;/p></description></item></channel></rss>
